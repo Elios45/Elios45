@@ -2,6 +2,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+<h3 align="left">About me:</h3>
+
 <p><em>I'm a student in <a href="https://www.esiea.fr/en">Engineering school</a>
   
 - - 👨‍💻 I am passionate about **IT** and **cyber security**
@@ -18,8 +20,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <h3 align="left"></h3>
-<a href="https://github.com/Elios45/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Button Test" width="150" ></a>
-  
+
 <h3 align="left">📊 I spent my time on:</h3>
 
 <!--START_SECTION:waka-->
