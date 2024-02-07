@@ -17,20 +17,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <h3 align="left"></h3>
 
 <h3 align="left">📊 I spent my time on:</h3>
-
-<!--START_SECTION:waka-->
-
-```text
-C            120+ hrs        ███████████████▒░░░░░░░░░   80.00 %
-C++          20+ hrs         █████████░░░░░░░░░░░░░░░░   13.33 %
-Other        10+ hrs         ▒░░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-```
-  
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
