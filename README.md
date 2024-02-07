@@ -17,5 +17,3 @@
 <code><img height="20" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></code>
 
 <h3 align="left"></h3>
-
-<h3 align="left">📊 I spent my time on:</h3>
