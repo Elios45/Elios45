@@ -1,7 +1,5 @@
 <h2> Hi, I'm Elios ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 <h3 align="left">About me:</h3>
 
 <p><em>I'm a student in <a href="https://www.esiea.fr/en">Engineering school</a>
